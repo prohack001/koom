@@ -35,10 +35,8 @@ Le projet applique des techniques de **machine learning** à un jeu de données 
 
 ## Fichiers
 
-- `classification_model.ipynb` : Notebook principal
-- `water_quality.csv` : Jeu de données utilisé
-- `process.png` : Schéma du pipeline
-- `confusion_matrix.png` : Visualisation des performances
+- `qualiteEasyPredict.ipynb` : Notebook principal
+- `base2.csv` : Jeu de données utilisé
 
 ## À venir
 
